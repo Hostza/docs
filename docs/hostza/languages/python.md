@@ -6,7 +6,7 @@ description: Getting Started on Hostza with Python
 
 ## Introduction
 
-This tutorial will have you deploying a Python app to Square Cloud in minutes.
+This tutorial will have you deploying a Python app to Hostza in minutes.
 
 The tutorial assumes that you have a [Hostza account](https://hostza.app/auth/login), and that you have [Python](https://www.python.org/downloads/) installed locally.
 
